@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\BelocubiKakadu.png",
+      "PackagePath": "staticwebassets\\Images\\BelocubiKakadu.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\Kreja.png",
+      "PackagePath": "staticwebassets\\Images\\Kreja.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\PlavoglavaSenica.png",
+      "PackagePath": "staticwebassets\\Images\\PlavoglavaSenica.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\PoljskiVrabac.png",
+      "PackagePath": "staticwebassets\\Images\\PoljskiVrabac.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\RusiSvracak.png",
+      "PackagePath": "staticwebassets\\Images\\RusiSvracak.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\SinjiGaleb.png",
+      "PackagePath": "staticwebassets\\Images\\SinjiGaleb.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\VelikaSenica.png",
+      "PackagePath": "staticwebassets\\Images\\VelikaSenica.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\VelikiSvracak.png",
+      "PackagePath": "staticwebassets\\Images\\VelikiSvracak.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\VrabacPokucar.png",
+      "PackagePath": "staticwebassets\\Images\\VrabacPokucar.png"
+    },
+    {
+      "Id": "D:\\Web programiranje\\Frontend\\PticeBaza\\wwwroot\\Images\\Vrana.png",
+      "PackagePath": "staticwebassets\\Images\\Vrana.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Primer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Primer.props",
+      "PackagePath": "build\\Primer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Primer.props",
+      "PackagePath": "buildMultiTargeting\\Primer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Primer.props",
+      "PackagePath": "buildTransitive\\Primer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

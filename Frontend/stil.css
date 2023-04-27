@@ -1,0 +1,83 @@
+.glavniDiv {
+    display: flex;
+}
+
+.levi {
+    flex-shrink: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-basis: 350px;
+    border: 1px solid black;
+}
+
+.divPodrucje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tableDiv {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.divPodrucje, .tableDiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 0px;
+}
+
+.nazivOsobine {
+    grid-column: 1;
+}
+
+.vrednostOsobine {
+    grid-column: 2;
+}
+
+.tableDiv {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.border1 {
+    border-right: 1px solid black;
+}
+
+.border1, .border2 {
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.desni {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 5px;
+    column-gap: 5px;
+    padding: 5px;
+    width: 100%;
+    border: 1px solid black;
+    border-left: 1px solid transparent;
+}
+
+.ptica {
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
